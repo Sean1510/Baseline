@@ -28,7 +28,7 @@ datelv_target_date = lv_baseline_date + lv_adjustment.
 ***Example***
 
 Best Buy Marketplace:
-            Baseline	Paid Date	Payment Term
+Day of Week Baseline	Paid Date	Payment Term
 Wednesday	12-Feb	21-Mar	37
 Thursday	13-Feb	21-Mar	36
 Friday	14-Feb	21-Mar	35
